@@ -1,0 +1,27 @@
+Apache Rave Change Log
+
+See http://issues.apache.org/jira/browse/RAVE-* (where * is the number of the issue below)
+
+
+Release Notes - Rave - Version 0.9-INCUBATING
+================================================================================================================
+** Bug
+    * [RAVE-375] - Create user from Admin interface
+    * [RAVE-478] - Portal does not start without pre-population from initial_data.sql
+    * [RAVE-489] - Groups aren't populated with Person's in the initial_data
+    * [RAVE-490] - PermGen Error when using the distribution package
+    * [RAVE-494] - "Categories" is not highlighted in admin module
+    * [RAVE-497] - Set default hostname and port for OAuth callback url's in rave.shindig.properties
+    * [RAVE-498] - rave-shindig intial_data.sql is never executed
+    * [RAVE-502] - Unable to load an initial_data.sql file in Oracle
+
+** Epic
+    * [RAVE-456] - View Person Profiles
+
+** Improvement
+    * [RAVE-470] - IDE Settings and debugging
+    * [RAVE-471] - Add ability to read the application properties entries from JSP pages
+    * [RAVE-474] - Extend Vanilla extension to also overlay rave-shindig
+    * [RAVE-476] - Filter Page Layouts available for user selection
+    * [RAVE-480] - Update CSS for Header
+    * [RAVE-487] - Add additional gadgets from Shindig & Ohloh.net to the store
